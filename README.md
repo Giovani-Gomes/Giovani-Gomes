@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align ="Center">
+<img src="https://giphy.com/gifs/sonic-the-hedgehog-PJiqz1RHkdtGE" width="28">
+
+</h1>
 
 <!--
 **Giovani-Gomes/Giovani-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

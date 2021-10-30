@@ -1,19 +1,18 @@
-<h1 align ="Center">
-<img src="https://giphy.com/gifs/sonic-the-hedgehog-PJiqz1RHkdtGE" width="28">
-
+<h1 align ="center">
+Saudações, Me nome é Giovani Gomes 
 </h1>
 
-<!--
-**Giovani-Gomes/Giovani-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Giovani-Gomes&show_icons=true&theme=radical">
 
-Here are some ideas to get you started:
+<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Gomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
+<img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+
+

@@ -4,7 +4,7 @@ Saudações, Me nome é Giovani Gomes
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Giovani-Gomes&show_icons=true&theme=radical">
 
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Gomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Gomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 

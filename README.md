@@ -2,8 +2,6 @@
 
 ### Me chamo Giovani Gomes Pereira
 
-Sou desenvolvedor mirim de 15 anos, gosto muito do mundo de programação e tento sempre compartilhar esses conhecimentos com as pessoas :) , meu foco atual está nas áreas mobile e back-end mas não deixo de estudar sobre a área web que gosto muito também! 
-
 ### Meus objetivos: 
 * Melhorar ainda mais na área que tanto amo
 * Aprender sobre design e investimentos 💰 
@@ -24,15 +22,6 @@ Sou desenvolvedor mirim de 15 anos, gosto muito do mundo de programação e tent
   <code><img src="https://user-images.githubusercontent.com/51785898/91358419-31502480-e7c9-11ea-9bb8-5124117e9a75.png" alt="AWS" width="40" height="40"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" width="40" height="40"/></code>&nbsp;
    </p>
-
-**Minhas redes**
-<p align="left">
-<a href="https://www.instagram.com/marcoshenrique.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="marcoshenrique.dev" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/MHDevelop" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MHDevelop" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UC3ZaLCltfI-34EQaZmWFaeg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Marcos Henrique Dev" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/marcos-henrique-developer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Marcos Henrique" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
-
 
 ## Minhas contribuições :
 

@@ -24,7 +24,3 @@
    </p>
 
 ## Minhas contribuições :
-
-![Marcos Henrique Dev Github stats](https://github-readme-stats.vercel.app/api?username=Giovani-Gomes-dev&show_icons=true&theme=dracula)
-
-

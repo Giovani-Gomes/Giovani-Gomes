@@ -10,7 +10,7 @@
 * E essa lista vem crescendo a cada dia mais! ⏭
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Giovani-Gomes">
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=giovani-gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovani-gomes&layout=compact&langs_count=7&theme=dracula"/>
 </div>

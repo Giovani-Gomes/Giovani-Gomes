@@ -5,7 +5,7 @@
 ### Meus objetivos: 
 * Pretendo Continuar me aprimorando na Área de T.I.
 * Contrinuir com a Comunidade.
-* Pretendo melhorar habilidades de Design
+* Pretendo melhorar habilidades de Design.
 
 
 

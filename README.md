@@ -3,11 +3,11 @@
 ### Me chamo Giovani Gomes Pereira
 
 ### Meus objetivos: 
-* Melhorar ainda mais na área que tanto amo
-* Aprender sobre design e investimentos 💰 
-* Ajudar pessoas que gostem da área de desenvolvimento ou que queiram começar👨‍🎓
-* Contribuir com a comunidade 😁.  
-* E essa lista vem crescendo a cada dia mais! ⏭
+* Pretendo Continuar me aprimorando na Área de T.I.
+* Contrinuir com a Comunidade.
+* Pretendo melhorar habilidades de Design
+
+
 
 <div align="center">
   <a href="https://github.com/Giovani-Gomes">

@@ -14,6 +14,7 @@
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=giovani-gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovani-gomes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
  <div style="display: inline_block"><br>
   <img align="center" alt="Giovani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Giovani-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -24,6 +25,14 @@
   <img align="center" alt="Giovani-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Giovani-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
+  <p align="center"> 
+
+ ## Visitas perfil <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/giovani-gomes/count.svg" />
+ </p>
+
+</p>
   
   ##
  

@@ -1,6 +1,6 @@
 # Saudações pessoal!
 
-### Me chamo Giovani Gomes Pereira
+### Me chamo Giovani
 
 ### Meus objetivos: 
 * Pretendo Continuar me aprimorando na Área de T.I.

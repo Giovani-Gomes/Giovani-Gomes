@@ -6,7 +6,6 @@
 * Pretendo Continuar me aprimorando na Área de T.I.
 * Contrinuir com a Comunidade.
 * Pretendo melhorar habilidades de Design.
-* 
  <div style="display: inline_block"><br>
   <img align="center" alt="Giovani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Giovani-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

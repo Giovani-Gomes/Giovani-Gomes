@@ -1,24 +1,21 @@
-# Saudações pessoal!
+## Olá, eu sou o Giovani Gomes
 
-### Me chamo Giovani
+<summary><b>⚡ Github Stats</b></summary>
 
-### Meus objetivos: 
-* Pretendo Continuar me aprimorando na Área de T.I.
-* Contrinuir com a Comunidade.
-* Pretendo melhorar habilidades de Design.
- <div style="display: inline_block"><br>
-  <img align="center" alt="Giovani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Giovani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Giovani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Giovani-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Giovani-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Fabio-Js" height="30" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Fabio-HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Fabio-CSS" height="30" width="70" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Fabio-Python" height="30" width="90" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">    
 </div>
-  <p align="center"> 
-
- ## Visitas perfil <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/giovani-gomes/count.svg" />
-
+    
+### 📈 GitHub Activity Graph:
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Giovani-Gomes&hide_border=true&theme=redical)
   
- 
- 
+  
+  <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Giovani-Gomes&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="NullBeta001" /></p>
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Giovani-Gomes" alt="NB" /></a>
+ </p>

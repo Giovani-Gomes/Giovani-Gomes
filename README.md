@@ -1,5 +1,8 @@
 ## Olá, eu sou o Giovani Gomes
-
+<div>
+<img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Giovani-Gomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Gomes&layout=compact&langs_count=7&theme=radical"/>
+</div>
 <summary><b>⚡ Github Stats</b></summary>
 
   <div style="display: inline_block"><br>
@@ -10,7 +13,7 @@
 </div>
     
 ### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Giovani-Gomes&hide_border=true&theme=redical)
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NullBeta001&hide_border=true&theme=redical)
   
   
   <summary><b>🔥 Github Streaks</b></summary>

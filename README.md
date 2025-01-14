@@ -1,4 +1,4 @@
-## Olá, eu sou o Giovani Gomes
+## Olá, eu sou o Giovani
 <div>
 <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Giovani-Gomes&theme=blue-green"/>
  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Gomes&theme=blue-green"/>
